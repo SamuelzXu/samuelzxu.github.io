@@ -9,9 +9,11 @@ Hey! I'm a soon to-be graduated undergrad at the University of Waterloo. I like 
 ### Recent highlights
 
 - reading [Klara and the Sun- Kazuo Ishiguro](https://www.goodreads.com/book/show/54120408-klara-and-the-sun)
+- attempting to write more [here](https://samitizer.blogspot.com/)
 - working with [Watonomous](https://www.watonomous.ca/) on infrastructure and embedded systems
 - data science competitions [mostly here](https://www.kaggle.com/samuelzxu) and also [here](https://www.drivendata.org/users/samitizerxu)
 - helping out with a [university club](https://www.facebook.com/muaythai.uw)
+- sometimes like writing [poetry](https://listed.to/authors/23642)
 
 ### Contact me
 
