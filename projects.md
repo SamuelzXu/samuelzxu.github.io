@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
 Hey! I'm a new grad out of the University of Waterloo, looking for jobs! Here are some things I've been working on: 
