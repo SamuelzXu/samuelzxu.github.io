@@ -16,6 +16,7 @@ Hey! I'm a new grad out of the University of Waterloo, looking for jobs! Here ar
 
 ### Contact me
 
-[samuelzxu@gmail.com](mailto:samuelzxu@gmail.com)
-[Resume.pdf]({{ site.baseurl }}/images/Resume.pdf)
-
+- [samuelzxu@gmail.com](mailto:samuelzxu@gmail.com)
+- [Resume.pdf]({{ site.baseurl }}/images/Resume.pdf)
+- [Linkedin](https://linkedin.com/in/samuelzicongxu)
+- [Github](https://github.com/samuelzxu)
