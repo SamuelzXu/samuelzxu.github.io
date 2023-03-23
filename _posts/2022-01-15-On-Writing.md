@@ -3,6 +3,8 @@ layout: post
 title: On Writing
 ---
 
+This is a quick story I wrote on the intrigue of writing.
+
 Note: This was transplanted from the blog [here](https://samitizer.blogspot.com) for sake having something here.
 
 There have been several attempts at developing stories of wonder and tragedy throughout my life. At first, the stories were variations on the fictions I would consume in the popular media. Kids entering a haunted house only to be butchered. A magical cave of knowledge and life, lions and serpents. Lover’s love among a jarring apocalypse. These are only the stories that I remember. Then, in short, life came along to shake things up. Looking back, the original characters were things that only a child could enthusiastically conceive of – ideal or demonic caricatures of good and evil. But now, things are different.
