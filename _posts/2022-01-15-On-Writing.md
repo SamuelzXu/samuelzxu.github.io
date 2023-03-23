@@ -32,7 +32,3 @@ No aspect of her story made sense to Ashley, but she went with it.
 “Oh, same old. Cosmetics hasn’t changed since the times of Cleopatra” Carla replied. Ashley decided to flash her a smile – meaningless facade of a gesture, but perhaps better than nothing. She looked her in the eyes and gave a little smirk, but then she stiffened. In her eyes, there wasn’t the same oblivious glazed look that she had the first time she walked through those doors. This time her eyes were aware and, damp, and Ashley recognized this look. Immediately Carla’s brow furrowed as she saw the look of recognition on her face and she looked down. She mumbled something incoherent as she shuffled away from the desk out the door into the blazing heat of July.
 
 This is an interesting topic - the clash of illusion with reality, and the appeal of either under a person's given circumstances. Here there was no character exploration, no connection nor insight into their motives. But, it's a start.
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
