@@ -44,7 +44,7 @@ Thoughout the CONUS the data points are distributed in tightly clustered locatio
 
 Most data points points are extracted during warmer seasons, which makes perfect sense since warmer climates are more favorable to algae.
 
-![severities]({{ site.baseurl }})/severities.jpg)
+![severities]({{ site.baseurl }})/images/severities.jpg)
 
 There are barely any data points at the highest severity level. but a fair amount distributed across the medium levels.
 
