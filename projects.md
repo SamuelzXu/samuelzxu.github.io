@@ -9,7 +9,7 @@ Hey! I'm a new grad out of the University of Waterloo, looking for jobs! Here ar
 ### Recent Projects
 
 - [Unscribbler: Handwriting-to-text app](https://board.samuelxu.com)
-- top 3% in [NASA Algal Bloom Competition](https://www.drivendata.org/competitions/143/tick-tick-bloom/)
+- top 3% in [NASA Algal Bloom Competition](https://www.drivendata.org/competitions/143/tick-tick-bloom/). [Here's my blog post](https://samuelzxu.github.io/NASA-Algal-Bloom-Data-Science-Challenge/) on it.
 - top 10 in [Crossplot Detection Competiton](https://xeek.ai/challenges/locate-plot-markers)
 - working on a kaggle competition
 - tutoring on my spare time
