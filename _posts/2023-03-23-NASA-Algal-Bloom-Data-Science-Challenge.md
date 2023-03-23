@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NASA Cyanobacteria Challenge
+title: NASA Algal Bloom Data Science Challenge
 ---
 
-This is a quick look at my approach to the NASA Algal Bloom data science challenge.
+This is a quick look at my approach to the [NASA Algal Bloom](https://www.drivendata.org/competitions/143/tick-tick-bloom/) data science challenge. Tools used include: Python, Pytorch, Vision Transformer, SWIN Transformer, Numpy, Pandas, CFGrib, XArray, Planetary Computer,...
 
 # Introduction
 
@@ -101,8 +101,8 @@ The HRRR Data consisted of measurements distributed across the CONUS in quantiti
 
 Although there were no missing data points, there were many unusable ones. Satellite presents the unique challenge that during nighttime and at times of high cloud cover, the image consists of pure black or blurry white, respectively. Here are some examples:
 
-![sat1]({{ site.baseurl }}/images/sat1.jpg)
-![sat2]({{ site.baseurl }}/images/sat2.jpg)
+![sat1]({{ site.baseurl }}/images/sat-1.jpg)
+![sat2]({{ site.baseurl }}/images/sat-2.jpg)
 
 However, when it's a good day, the image can be quite beautiful when viewed from a larger distance:
 
