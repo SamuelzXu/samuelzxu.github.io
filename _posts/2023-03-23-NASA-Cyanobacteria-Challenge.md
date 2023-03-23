@@ -50,6 +50,8 @@ There are barely any data points at the highest severity level. but a fair amoun
 
 The test data is distributed evenly across years, while training data favors the years 2015-2018.
 
+To get an idea of the look of the satellite and climate data would take much more effort, which I'll reserve for the feature extraction section.
+
 # My Approach
 
 ## Organization
@@ -64,8 +66,11 @@ I eventually adopted a coloring scheme to signify progress, used strikethroughs 
 
 I'll discuss each of the bolded elements in detail. As you can see, every approach, idea, research direction, question, and feature had to be approached systematically. Otherwise, this would have been a true headache to keep track of. Initially I knew very little about cyanobacteria and factors influencing their abundance, and even less about methods of accessing satellite and climate data, so the task at hand seemed daunting.
 
-
-
 ## Initial Thoughts
 
-The pipeline itself seemed straightforward enough: 
+- The pipeline itself seemed straightfoward enough: feature extraction using a variety of statistics and neural networks, and prediction using an ensemble of boosting and a multilayer perceptron.
+- The main challenge was time. I joined the competition with under 2 weeks to go, so I was going to have to go pretty fast. I had a bit of a naivete about me at the time, and believed that if I went at it with enough determination, it would work out.
+- I needed to do research into spatiotemporal data methods. This was a world that I wasn't familiar with, and I was sure there were suitable methods for use in this task that are household names in that field.
+- Similarly, I needed to research the established indicators of HABs.
+- Finally, I had in the back of my mind Richard Sutton's [Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) to not discount simply throwing data at a neural network
+
