@@ -3,7 +3,7 @@ layout: post
 title: NASA Algal Bloom Data Science Challenge
 ---
 
-This is a quick look at my approach to the [NASA Algal Bloom](https://www.drivendata.org/competitions/143/tick-tick-bloom/) data science challenge. Tools used include: Python, Pytorch, Vision Transformer, SWIN Transformer, Numpy, Pandas, CFGrib, XArray, Planetary Computer,...
+This is a quick look at my approach to the [NASA Algal Bloom](https://www.drivendata.org/competitions/143/tick-tick-bloom/) data science challenge. [Here's my code](https://github.com/samuelzxu/algae-challenge). Tools used include: Python, Pytorch, Vision Transformer, SWIN Transformer, Numpy, Pandas, CFGrib, XArray, Planetary Computer,...
 
 # Introduction
 
