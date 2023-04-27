@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey! I'm a new grad out of the University of Waterloo, looking for jobs! Here are some things I've been working on: 
+Hey! I'm a new grad out of the University of Waterloo, currently an Associate Data Scientist at [Hotspex Media](https://hotspexmedia.com)! Here are some things I've been working on: 
 
 ### Recent Projects
 
