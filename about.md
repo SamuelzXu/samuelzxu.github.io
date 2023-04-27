@@ -17,6 +17,6 @@ Hey! I'm a new grad out of the University of Waterloo, currently an Associate Da
 ### Contact me
 
 - [samuelzxu@gmail.com](mailto:samuelzxu@gmail.com)
-- [Resume.pdf]({{ site.baseurl }}/images/Resume.pdf)
+- [Resume]({{ site.baseurl }}/images/Resume.pdf)
 - [Linkedin](https://linkedin.com/in/samuelzicongxu)
 - [Github](https://github.com/samuelzxu)
