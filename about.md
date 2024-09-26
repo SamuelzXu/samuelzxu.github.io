@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey! I'm a new grad out of the University of Waterloo, currently a Data Scientist at [Reticle](https://reticleai.com)! Here are some things I've been working on: 
+Hey! I'm currently a Data Scientist at [Reticle](https://reticleai.com)! Here are some things I've been working on: 
 
 ### Recent Projects
 
